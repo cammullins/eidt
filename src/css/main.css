@@ -59,6 +59,18 @@ canvas {
   z-index: 9999;
 }
 
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+
+
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   [class="container-fluid"] {

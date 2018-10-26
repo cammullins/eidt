@@ -337,3 +337,9 @@ function enableDownloadButton(){
         document.getElementById("a").className = "btn btn-warning btn-block";
     }
 }
+
+const checkInputs4Value = function (e) {
+    document.querySelector('input').forEach( () =>{
+
+    })
+}

@@ -42,7 +42,7 @@ data = [
     "answerC": "English",
     "answerD": "Hindi",
     "correct": "answerB",
-    "category": "hostory"
+    "category": "history"
   },
   {
     "question": "Brie and Camembert are types of which food?",
